@@ -1,0 +1,30 @@
+Duplicados con codigo "710041":
+  id: 283 - nombre: Azucar Perlada Dorada x 148 gr. - WILTON
+  id: 5997 - nombre: Sprinkles Perlas Comestibles Dorado x 136 gr. - WILTON
+Duplicados con codigo "105051":
+  id: 1182 - nombre: CAMPANA DE VIDRIO CON PIE 23x32 CM
+  id: 7937 - nombre: Campana de Vidrio con Pie de Porcelana 23x32 cm.
+Duplicados con codigo "008U3":
+  id: 4106 - nombre: Cabeza Unicornio - Molde de Silicona
+  id: 8234 - nombre: Unicornio Cabeza - Molde de Silicona
+Duplicados con codigo "BOMBFUCS":
+  id: 4543 - nombre: Papel para Bombones 10x10 cm - 50 u. - Fucsia
+  id: 8116 - nombre: Papel para Bombones 10x10 cm - 50 u. - Fucsia
+Duplicados con codigo "LBI.14":
+  id: 5290 - nombre: Placa texturadora CK - Assorment Lace - set x 4
+  id: 12659 - nombre: Placa texturadora CK - Damask Border - set x 4
+Duplicados con codigo "S651":
+  id: 5847 - nombre: Set Pico Sultan Plastico x 2 u.
+  id: 6560 - nombre: Textura Lana Puño - SUPERMOLDES
+Duplicados con codigo "GLOBOBT":
+  id: 9023 - nombre: Globo Burbuja Cristal  c/ Mini Esferas de Telgopor x 46 cm.
+  id: 9024 - nombre: Globo Burbuja Cristal  c/ Mini Esferas de Telgopor x 46 cm.
+Duplicados con codigo "15888":
+  id: 10452 - nombre: Chicle Bolon Multicolor x 400 gr.
+  id: 15295 - nombre: Globo Multicolor Liso Pastel  25 cm. X 25 U
+Duplicados con codigo "PUN131":
+  id: 13106 - nombre: Diesel Fuel / Vintage - Placa Silicona Texturada - MAMA DORA
+  id: 14009 - nombre: Diesel Fuel / Vintage - Placa Silicona Texturada - MAMA DORA
+Duplicados con codigo "2373A":
+  id: 14477 - nombre: Estuche Con Set de Cubiertos Amarillo
+  id: 14479 - nombre: Estuche Con Set de Cubiertos Azul

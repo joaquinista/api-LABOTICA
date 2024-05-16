@@ -1,0 +1,46 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model TNProduct {
+  id            Int      @id @default(autoincrement())
+  productId     Int      @unique
+  variantId     Int      @unique
+  interdataCode Int?
+  code          String   @unique
+  stock         Int
+  active        Boolean  @default(true)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model TNDuplicatedCodes {
+  id        Int      @id @default(autoincrement())
+  code      String   @unique
+  createdAt DateTime @default(now())
+}
+
+model Order {
+  id        Int       @id @default(autoincrement())
+  orderId   Int       @unique
+  number    Int
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  syncAt    DateTime?
+}
+
+model Log {
+  id        Int      @id @default(autoincrement())
+  type      String
+  message   String
+  data      Json?
+  createdAt DateTime @default(now())
+}

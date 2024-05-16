@@ -1,0 +1,86 @@
+[
+  {
+    "prd_codigo": 1250,
+    "prd_stock": 7
+  },
+  {
+    "prd_codigo": 2080,
+    "prd_stock": 15
+  },
+  {
+    "prd_codigo": 2245,
+    "prd_stock": 42
+  },
+  {
+    "prd_codigo": 3578,
+    "prd_stock": 11
+  },
+  {
+    "prd_codigo": 3581,
+    "prd_stock": 11
+  },
+  {
+    "prd_codigo": 4674,
+    "prd_stock": 0
+  },
+  {
+    "prd_codigo": 4676,
+    "prd_stock": 73
+  },
+  {
+    "prd_codigo": 4917,
+    "prd_stock": 0
+  },
+  {
+    "prd_codigo": 4923,
+    "prd_stock": 24
+  },
+  {
+    "prd_codigo": 4943,
+    "prd_stock": 244
+  },
+  {
+    "prd_codigo": 6313,
+    "prd_stock": 66
+  },
+  {
+    "prd_codigo": 7517,
+    "prd_stock": 36
+  },
+  {
+    "prd_codigo": 7998,
+    "prd_stock": 3
+  },
+  {
+    "prd_codigo": 8476,
+    "prd_stock": 32
+  },
+  {
+    "prd_codigo": 8660,
+    "prd_stock": 9
+  },
+  {
+    "prd_codigo": 9614,
+    "prd_stock": 33
+  },
+  {
+    "prd_codigo": 9643,
+    "prd_stock": 228
+  },
+  {
+    "prd_codigo": 11215,
+    "prd_stock": 8
+  },
+  {
+    "prd_codigo": 11724,
+    "prd_stock": 218
+  },
+  {
+    "prd_codigo": 15424,
+    "prd_stock": 21
+  },
+  {
+    "prd_codigo": 16063,
+    "prd_stock": 5
+  }
+]

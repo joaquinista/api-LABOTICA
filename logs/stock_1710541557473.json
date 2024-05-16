@@ -1,0 +1,275 @@
+[
+  {
+    "id": 198565280,
+    "variants": [
+      {
+        "id": 810896045,
+        "inventory_levels": [
+          {
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198569292,
+    "variants": [
+      {
+        "id": 810908122,
+        "inventory_levels": [
+          {
+            "stock": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198576986,
+    "variants": [
+      {
+        "id": 810931602,
+        "inventory_levels": [
+          {
+            "stock": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198576709,
+    "variants": [
+      {
+        "id": 810931092,
+        "inventory_levels": [
+          {
+            "stock": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198568810,
+    "variants": [
+      {
+        "id": 810906370,
+        "inventory_levels": [
+          {
+            "stock": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198567066,
+    "variants": [
+      {
+        "id": 810901266,
+        "inventory_levels": [
+          {
+            "stock": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198569259,
+    "variants": [
+      {
+        "id": 810907990,
+        "inventory_levels": [
+          {
+            "stock": 73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198577769,
+    "variants": [
+      {
+        "id": 810932788,
+        "inventory_levels": [
+          {
+            "stock": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198581078,
+    "variants": [
+      {
+        "id": 810941134,
+        "inventory_levels": [
+          {
+            "stock": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198571939,
+    "variants": [
+      {
+        "id": 810918203,
+        "inventory_levels": [
+          {
+            "stock": 244
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198573638,
+    "variants": [
+      {
+        "id": 810922191,
+        "inventory_levels": [
+          {
+            "stock": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198582932,
+    "variants": [
+      {
+        "id": 810945785,
+        "inventory_levels": [
+          {
+            "stock": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198583780,
+    "variants": [
+      {
+        "id": 810948293,
+        "inventory_levels": [
+          {
+            "stock": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198584448,
+    "variants": [
+      {
+        "id": 810950282,
+        "inventory_levels": [
+          {
+            "stock": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198569522,
+    "variants": [
+      {
+        "id": 810909099,
+        "inventory_levels": [
+          {
+            "stock": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198587584,
+    "variants": [
+      {
+        "id": 810960754,
+        "inventory_levels": [
+          {
+            "stock": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198564390,
+    "variants": [
+      {
+        "id": 810893304,
+        "inventory_levels": [
+          {
+            "stock": 228
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198592940,
+    "variants": [
+      {
+        "id": 810980092,
+        "inventory_levels": [
+          {
+            "stock": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198594481,
+    "variants": [
+      {
+        "id": 810986936,
+        "inventory_levels": [
+          {
+            "stock": 218
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198607739,
+    "variants": [
+      {
+        "id": 811036750,
+        "inventory_levels": [
+          {
+            "stock": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198610484,
+    "variants": [
+      {
+        "id": 811047037,
+        "inventory_levels": [
+          {
+            "stock": 5
+          }
+        ]
+      }
+    ]
+  }
+]

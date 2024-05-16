@@ -1,0 +1,39 @@
+{
+  "name": "my-cron-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A cron node application",
+  "main": "dist/index.js",
+  "scripts": {
+    "cron": "ts-node-esm cron/index.ts",
+    "run-job": "ts-node-esm cron/runJob.ts",
+    "scripts": "ts-node-esm scripts/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "cron",
+    "node",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.8.1",
+    "@types/nodemailer": "^6.4.14",
+    "@types/prompts": "^2.4.9",
+    "cron": "^3.1.6",
+    "csv-parse": "^5.5.3",
+    "dotenv": "^16.4.1",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.9",
+    "prompts": "^2.4.2",
+    "undici": "^6.9.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "prisma": "^5.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

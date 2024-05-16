@@ -1,0 +1,602 @@
+[
+  {
+    "productId": 198583781,
+    "variantId": 810948292,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198576642,
+    "variantId": 810930910,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198578542,
+    "variantId": 810934190,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198606979,
+    "variantId": 811032801,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572398,
+    "variantId": 810919393,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572743,
+    "variantId": 810920125,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572795,
+    "variantId": 810920244,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572802,
+    "variantId": 810920257,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572856,
+    "variantId": 810920386,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198576648,
+    "variantId": 810930916,
+    "weight": "0.02",
+    "height": "16",
+    "width": "2",
+    "depth": "2"
+  },
+  {
+    "productId": 198577848,
+    "variantId": 810932885,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198588176,
+    "variantId": 810962896,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198576282,
+    "variantId": 810930168,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198564986,
+    "variantId": 810895165,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198564990,
+    "variantId": 810895175,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571637,
+    "variantId": 810917275,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571716,
+    "variantId": 810917556,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571756,
+    "variantId": 810917641,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572022,
+    "variantId": 810918485,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572030,
+    "variantId": 810918500,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572026,
+    "variantId": 810918489,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572021,
+    "variantId": 810918487,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572024,
+    "variantId": 810918486,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572147,
+    "variantId": 810918820,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572399,
+    "variantId": 810919397,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198572793,
+    "variantId": 810920245,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198573915,
+    "variantId": 810922911,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198573963,
+    "variantId": 810923085,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198574311,
+    "variantId": 810924219,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198574598,
+    "variantId": 810925222,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198574597,
+    "variantId": 810925219,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575058,
+    "variantId": 810926521,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575062,
+    "variantId": 810926520,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575198,
+    "variantId": 810927000,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575405,
+    "variantId": 810927711,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575460,
+    "variantId": 810927898,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575683,
+    "variantId": 810928585,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198575684,
+    "variantId": 810928583,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198564987,
+    "variantId": 810895168,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198565037,
+    "variantId": 810895343,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570002,
+    "variantId": 810910797,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198569999,
+    "variantId": 810910792,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570030,
+    "variantId": 810910976,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570067,
+    "variantId": 810911126,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570063,
+    "variantId": 810911122,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570064,
+    "variantId": 810911123,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570066,
+    "variantId": 810911125,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570189,
+    "variantId": 810911645,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570182,
+    "variantId": 810911633,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570181,
+    "variantId": 810911630,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570216,
+    "variantId": 810911771,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570208,
+    "variantId": 810911766,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570359,
+    "variantId": 810912277,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570364,
+    "variantId": 810912280,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570365,
+    "variantId": 810912282,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570370,
+    "variantId": 810912297,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570363,
+    "variantId": 810912283,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198570557,
+    "variantId": 810913042,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571097,
+    "variantId": 810915268,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571272,
+    "variantId": 810915973,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571264,
+    "variantId": 810915969,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198571351,
+    "variantId": 810916190,
+    "weight": "0.02",
+    "height": "20",
+    "width": "15",
+    "depth": "2"
+  },
+  {
+    "productId": 198566109,
+    "variantId": 810898973,
+    "weight": "0.07",
+    "height": "2",
+    "width": "12",
+    "depth": "15"
+  },
+  {
+    "productId": 198583981,
+    "variantId": 810948772,
+    "weight": "0.07",
+    "height": "8",
+    "width": "5",
+    "depth": "5"
+  },
+  {
+    "productId": 198570655,
+    "variantId": 810913347,
+    "weight": "0.08",
+    "height": "6",
+    "width": "36",
+    "depth": "1"
+  },
+  {
+    "productId": 198583977,
+    "variantId": 810948763,
+    "weight": "0.1",
+    "height": "15",
+    "width": "15",
+    "depth": "1"
+  },
+  {
+    "productId": 198594736,
+    "variantId": 810988302,
+    "weight": "1",
+    "height": "17",
+    "width": "34",
+    "depth": "3"
+  },
+  {
+    "productId": 198571142,
+    "variantId": 810915440,
+    "weight": "1",
+    "height": "13",
+    "width": "7",
+    "depth": "18"
+  },
+  {
+    "productId": 198597948,
+    "variantId": 810999246,
+    "weight": "4.3",
+    "height": "19",
+    "width": "23",
+    "depth": "18"
+  },
+  {
+    "productId": 198564448,
+    "variantId": 810893589,
+    "weight": "0.3",
+    "height": "10",
+    "width": "25",
+    "depth": "25"
+  },
+  {
+    "productId": 198574141,
+    "variantId": 810923713,
+    "weight": "0.02",
+    "height": "1",
+    "width": "11",
+    "depth": "8"
+  },
+  {
+    "productId": 198568386,
+    "variantId": 810905022,
+    "weight": "0.08",
+    "height": "4",
+    "width": "25",
+    "depth": "10"
+  },
+  {
+    "productId": 198599294,
+    "variantId": 811005006,
+    "weight": "0.347",
+    "height": "36",
+    "width": "27",
+    "depth": "4"
+  },
+  {
+    "productId": 198568386,
+    "variantId": 810905022,
+    "weight": "0.08",
+    "height": "4",
+    "width": "25",
+    "depth": "10"
+  },
+  {
+    "productId": 198599294,
+    "variantId": 811005006,
+    "weight": "0.347",
+    "height": "36",
+    "width": "27",
+    "depth": "4"
+  }
+]
